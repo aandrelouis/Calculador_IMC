@@ -3,7 +3,7 @@
 
 <h3 align="center"> Descrição do Projeto </h1>
 
-O projeto foi desenvolvido durante do curso **JavaScript: programando na linguagem da web** cujo o objetivo da aplicação é calcular o IMC do usuário utilizando solicitando do usuário as medidas necessárias. Depois ele efetua o cálculo e mostra na tabela o resultado. A aplicação também permite pesquisar outros clientes e até mesmo utilizar uma api para baixar dados de outros clientes.
+O projeto foi desenvolvido durante do curso **JavaScript: programando na linguagem da web** cujo o objetivo da aplicação é calcular o IMC do usuário, solicitando do usuário as medidas necessárias. Depois, ele efetua o cálculo e mostra na tabela o resultado. A aplicação também permite pesquisar outros usuários e até mesmo utilizar uma api para baixar dados de outros clientes.
 
 ## :hammer: Funcionalidades do projeto
 
