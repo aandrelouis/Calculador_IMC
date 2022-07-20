@@ -7,10 +7,10 @@ O projeto foi desenvolvido durante do curso **JavaScript: programando na linguag
 
 ## :hammer: Funcionalidades do projeto
 
-- `Calculo IMC`: Utilização de operações para realizar o cálculo de imc seguindo a fórmula padrão;
-- `Utilização do Forms`: Utilização de formulário para requisitar os dados do usuário;
-- `Requisição de Api`: O projeto utiliza requisição de Api para solicitar dados externos da aplicação;
-- `Filtro de Busca`: Utilização de Regex para efetuar os filtros da aplicação
+- `Cálculo IMC `: Utilização de operações para realizar o cálculo de imc seguindo a fórmula padrão;
+- `Utilização do Forms `: Utilização de formulário para requisitar os dados do usuário;
+- `Requisição de Api `: O projeto utiliza requisição de Api para solicitar dados externos da aplicação;
+- `Filtro de Busca `: Utilização de Regex para efetuar os filtros da aplicação
 
 ![Javascript na WEB](https://user-images.githubusercontent.com/56393009/180065401-c3ae7b45-5e87-4547-80b7-6ab9abb139f5.gif)
 
