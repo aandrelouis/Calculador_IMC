@@ -14,6 +14,14 @@ O projeto foi desenvolvido durante do curso **JavaScript: programando na linguag
 
 ![Javascript na WEB](https://user-images.githubusercontent.com/56393009/180065401-c3ae7b45-5e87-4547-80b7-6ab9abb139f5.gif)
 
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com a utilização das seguintes tecnologias:
+- HTML + CSS
+- JavaScript
+
+
+
 
 ## 🛠️ Abrir e rodar o projeto
 
